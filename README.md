@@ -17,7 +17,7 @@ I enjoy building real-world applications with modern tech like React, Node.js, P
 ### 📌 Featured Projects
 
 - [**WorkNet**](https://github.com/Basu30/worknet-frontend)
-- [**WorkNet**]{https://github.com/Basu30/worknet-backend).
+- [**WorkNet**](https://github.com/Basu30/worknet-backend)
   Company platform for posting news, internal updates, courses, and user-generated posts with accounts.
 
 - [**Guess the Song**](https://github.com/Basu30/guess-the-song)  
