@@ -20,9 +20,6 @@ I enjoy building real-world applications with modern tech like React, Node.js, P
 - [**WorkNet backend**](https://github.com/Basu30/worknet-backend)
   Company platform for posting news, internal updates, courses, and user-generated posts with accounts.
 
-- [**Guess the Song**](https://github.com/Basu30/guess-the-song)  
-  A mobile music quiz game where users guess songs from 5-second audio clips.
-
 - [**BasuNews**](https://github.com/Basu30/project-news)  
   Full-stack news app using Next.js and Firebase. Supports news search by keyword/category, user accounts, and saved articles.
 
