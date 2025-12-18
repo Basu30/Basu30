@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi 👋
 
 I'm **Basu**, a full-stack developer based in Calgary, Canada 🇨🇦  
 I enjoy building real-world applications with modern tech like React, Node.js, MongoDB, Firebase, PostgreSQL, and React Native.
